@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/kumimu/ts-for-js-develop/issues"
   },
-  "homepage": "https://github.com/kumimu/ts-for-js-develop#readme"
+  "homepage": "https://github.com/kumimu/ts-for-js-develop#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
